@@ -1,0 +1,8 @@
+Category  Number of Judgements
+C.A.      380
+C.M.A.    92
+C.P.      356
+Const.P.  101
+Crl.A.    110
+Crl.P.    127
+S.M.C.    103
