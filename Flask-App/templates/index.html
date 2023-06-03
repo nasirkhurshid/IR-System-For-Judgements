@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>IR System Search</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
+</head>
+<body>
+    <h3 class="pt-2 text-center">Information Retrieval System For Lawyers</h3>
+    <div class="container mt-4 w-50">
+        <form class="form-inline justify-content-center" action="{{ url_for('search') }}" method="GET">
+            <div class="input-group">
+                <input type="text" name="query" class="form-control rounded-3" placeholder="Search...">
+                <div class="input-group-append">
+                    <button class="btn btn-primary rounded-3" type="submit">Search</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
