@@ -1,0 +1,12 @@
+Query Terms       Weighting   P     R     F     AP    
+Query Term-1      TF-IDF      0.6   0.6   0.6   0.717 
+Query Term-2      TF-IDF      0.4   0.4   0.4   0.399 
+Query Term-3      TF-IDF      0.7   0.7   0.7   0.619 
+Query Term-4      TF-IDF      0.6   0.6   0.6   0.661 
+Query Term-5      TF-IDF      0.3   0.3   0.3   0.294 
+Query Term-6      TF-IDF      0.4   0.4   0.4   0.37  
+Query Term-7      TF-IDF      0.6   0.6   0.6   0.594 
+Query Term-8      TF-IDF      0.3   0.3   0.3   0.287 
+Query Term-9      TF-IDF      0.9   0.9   0.9   0.928 
+Query Term-10     TF-IDF      0.6   0.6   0.6   0.65  
+Mean Average Precision for 10 queries = 0.551779365079365

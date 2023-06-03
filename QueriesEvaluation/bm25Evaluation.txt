@@ -1,0 +1,12 @@
+Query Terms       Weighting   P     R     F     AP    
+Query Term-1      BM25        0.8   0.8   0.8   0.76  
+Query Term-2      BM25        0.5   0.5   0.5   0.491 
+Query Term-3      BM25        0.5   0.5   0.5   0.531 
+Query Term-4      BM25        0.6   0.6   0.6   0.619 
+Query Term-5      BM25        0.2   0.2   0.2   0.2   
+Query Term-6      BM25        0.4   0.4   0.4   0.793 
+Query Term-7      BM25        0.8   0.8   0.8   0.643 
+Query Term-8      BM25        0.4   0.4   0.4   0.441 
+Query Term-9      BM25        0.9   0.9   0.9   0.928 
+Query Term-10     BM25        0.4   0.4   0.4   0.585 
+Mean Average Precision for 10 queries = 0.5990205555555557
